@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi! My name is Youssef Mrabet
+Welcome to my github profile :smiley: !
 
-<!--
-**ysfmrbt/ysfmrbt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:computer: I'm a student :man_student: and tech enthusiast from Tunisia.
 
-Here are some ideas to get you started:
+:octocat: Currently investing free time into becoming a web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:video_game: Interested in learning game development (I want to create my custom physics engine).
+
+
+### My learning path :
+
+- [x] Learn Responsive Web Design.
+- [ ] Learn Javascript Data Structures
+- [ ] Learn Front End Libraries.
+- [ ] Learn Data Visualisation.
+- [ ] Learn APIs and Microservices.
+
+I'm using FreeCodeCamp as the learning platform because it's free.
