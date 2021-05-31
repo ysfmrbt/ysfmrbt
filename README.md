@@ -11,7 +11,7 @@ Welcome to my github profile :smiley: !
 ### My learning path :
 
 - [x] Learn Responsive Web Design.
-- [ ] Learn Javascript Data Structures
+- [x] Learn Javascript Data Structures
 - [ ] Learn Front End Libraries.
 - [ ] Learn Data Visualisation.
 - [ ] Learn APIs and Microservices.
