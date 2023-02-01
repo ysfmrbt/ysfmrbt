@@ -30,7 +30,7 @@
 💖 Symfony.
 
 ## Other stuff that I'm interested in :
-🔹 Deep Learning
-🔹 Physics Engine
-🔹 Microsoft Azure
+🔹Deep Learning
+🔹Physics Engine
+🔹Microsoft Azure
 🔹 Cyber Security
