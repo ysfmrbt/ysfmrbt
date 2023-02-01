@@ -14,9 +14,11 @@ I like automating stuff and building things that make life easier.
 
 ## Projects I'm currently building :
 
--⚡ A full-stack test automation web application for SiFAST using Symfony, React and MongoDB (End of Studies project).
+⚡ A full-stack test automation web application for SiFAST using Symfony, React and MongoDB (End of Studies project).
 
--⚡ Youtube video downloader desktop application using Tauri, Svelte, SQLite and ytdl.
+⚡ Youtube video downloader desktop application using Tauri, Svelte, SQLite and ytdl.
+
+⚡ My personal website and blog using React [https://yssf.me].
 
 ## Technologies I'm excited about / learning :
 💖 Embedded Systems Programming.
