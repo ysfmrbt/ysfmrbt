@@ -1,19 +1,25 @@
-## Hi! My name is Youssef Mrabet
-Welcome to my github profile :smiley: !
+### Hi! I'm Youssef M'rabet
+:computer: I'm an IoT developer and tech enthusiast from Sfax, Tunisia.
+:octocat: I like automating stuff and building things that make life easier.
 
-:computer: I'm a student :man_student: and tech enthusiast from Tunisia.
+## Pojects I've built :
+✅ A full-stack web application for Optylab using Flask, TailwindCSS and MySQL (Internship).
+✅ A Java Entreprise Edition based web application (University Project).
+✅ A Discord bot that helps set roles for a personal server.
+✅ A wireless sensor network, RFID based transportation subscription system, Off-road robot with wireless control. (University Projects)
 
-:octocat: Currently investing free time into becoming a web developer.
+## Projects I'm currently building :
+⚡ A full-stack test automation web application for SiFAST using Symfony, React and MongoDB (End of Studies project).
+⚡ Youtube video downloader desktop application using Tauri, Svelte, SQLite and ytdl.
 
-:video_game: Interested in learning game development (I want to create my custom physics engine).
+## Technologies I'm excited about / learning :
+💖 Embedded Systems Programming.
+💖 Typescript, React and Svelte.
+💖 Rust and Tauri.
+💖 Symfony.
 
-
-### My learning path :
-
-- [x] Learn Responsive Web Design.
-- [x] Learn Javascript Data Structures
-- [ ] Learn Front End Libraries.
-- [ ] Learn Data Visualisation.
-- [ ] Learn APIs and Microservices.
-
-I'm using FreeCodeCamp as the learning platform because it's free.
+## Other stuff that I'm interested in :
+🔹 Deep Learning
+🔹 Physics Engine
+🔹 Microsoft Azure
+🔹 Cyber Security
