@@ -1,7 +1,7 @@
 ### Hi! I'm Youssef M'rabet
-:computer: I'm an IoT developer and tech enthusiast from Sfax, Tunisia.
+I'm an IoT developer and tech enthusiast from Sfax, Tunisia. 
 
-:octocat: I like automating stuff and building things that make life easier.
+I like automating stuff and building things that make life easier.
 
 ## Pojects I've built :
 ✅ A full-stack web application for Optylab using Flask, TailwindCSS and MySQL (Internship).
