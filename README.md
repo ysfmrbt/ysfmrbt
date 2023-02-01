@@ -1,7 +1,7 @@
-### Hi! I'm Youssef M'rabet
-I'm an IoT developer and tech enthusiast from Sfax, Tunisia. 
-
-I like automating stuff and building things that make life easier.
+<p align="center">
+  Hi! I'm <b>Youssef M'rabet,</b>
+  an IoT developer and tech enthusiast from <i>Sfax, Tunisia</i>. 
+</p>
 
 ## Pojects I've built :
 ✅ A full-stack web application for Optylab using Flask, TailwindCSS and MySQL (Internship).
@@ -18,7 +18,7 @@ I like automating stuff and building things that make life easier.
 
 ⚡ Youtube video downloader desktop application using Tauri, Svelte, SQLite and ytdl.
 
-⚡ My personal website and blog using React [https://yssf.me].
+⚡ My [personal website](https://yssf.me) and blog using React.
 
 ## Technologies I'm excited about / learning :
 💖 Embedded Systems Programming.
