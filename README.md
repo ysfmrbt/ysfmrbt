@@ -10,7 +10,7 @@
 
 ✅ A Discord bot that helps set roles for a personal server.
 
-✅ A wireless sensor network, RFID based transportation subscription system, Off-road robot with wireless control. (University Projects)
+✅ A wireless sensor network, RFID based transportation subscription system, Off-road robot with wireless control (University Projects).
 
 ## Projects I'm currently building :
 
